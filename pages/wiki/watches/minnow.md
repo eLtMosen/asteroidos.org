@@ -26,7 +26,7 @@ The USB pads are accessible after removing the 'lower' strap and then peeling up
 
 # Repair
 Minnow comes apart in a very unique way that involves no screws, but also should not compromise water resistance. It is strongly recommended Start by removing the straps, then find the 4 wedges that slide into the sides of the strap cavities. These will need to be removed by grabbing them with tweezers or a bent pin. Once all four are removed, the back half of the watch should come out from the front of the watch. You will likely need to replace the battery when buying these watches as they are getting quite old.
-The curved glass back on most minnows seems to crack over time, likely due to the plastic frame flexing under stress from the straps. There's no real way to fix this, and it will likely comprmise water resistance
+The curved glass back on most minnows seems to crack over time, likely due to the plastic frame flexing under stress from the straps. There's no real way to fix this, and it will likely compromise water resistance
 
 # Miscellaneous hardware docs
 ## Getting to fastboot
