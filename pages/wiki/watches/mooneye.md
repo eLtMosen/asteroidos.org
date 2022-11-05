@@ -1,5 +1,4 @@
-Lenok (LG G Watch R) is a large round black steel watch that is very well supported. It has a lot in commmon with Bass, but is easier to repair so is an easy recommendation.
-Warning: dory (LG G Watch) and lenok (LG G Watch R) are confusingly named but are two entirely different watches.
+Mooneye (TicWatch E and Ticwatch S) are a pair of budget watches with plastic cases.
 
 <div class="support-row">
   <div class="support-col">Display<div class="support-col-good"></div></div>
@@ -14,16 +13,20 @@ Warning: dory (LG G Watch) and lenok (LG G Watch R) are confusingly named but ar
   <div class="support-col">Tilt-to-Wake<div class="support-col-good"></div></div>
 </div>
 
-SOC: Snapdragon 400 (apq8026)
+SOC: MediaTek MT2601
 Storage: 4GB
 Port status: Fully working
 Kernel: Android
 
 # Description
-Lenok is a fairly large steel-cased watch with an angular design. It includes a heartrate, compass and pedometer sensor. It is very similar to bass (LG Watch Urbane), but adds a compass, looks far less conventional and is held together with screws instead of glue. The watch seems to be available only in a black steel design, and all lenok take 22mm straps.
+Mooneye are watches with OLED displays and GPS built in. They are obviously targetted at a more budget market with their plastic construction and MediaTek SOCs.
+## TicWatch E
+The watch has a hard plastic shell, with an angular design. Some variants come with translucent case elements. The straps can be replaced with any 20mm strap.
+## TicWatch S
+The top case is made out of hard plastic, while the strap is made of a softer plastic. The strap contains GPS antennae, so customising them isn't feasible, but they aren't integrated with the case, so they should be replaceable if damaged.
 
 # Repair
-The back of the watch is held on by screws, but there is a fragile gasket adhered to the back panel which you will need to be careful with. Parts are commonly available. You will likely need to replace the battery when buying these watches as they are getting quite old.
+Both watches are held together with glue, so opening them will compromise water resistance. Parts are not commonly available.
 
 # Miscellaneous hardware docs
 ## Manually getting to fastboot
